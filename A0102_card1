@@ -1,0 +1,14 @@
+{
+                    "card": {
+                      "type": "list_card",
+                      "cells": [
+                        {
+                          "type": "image_cell_view",
+                          "content": {
+                            "url": "https://va-res.online.sberbank.ru/VA/images/credit_1.jpg",
+                            "actions": []
+                          }
+                        }
+                      ]
+                    }
+                  }
