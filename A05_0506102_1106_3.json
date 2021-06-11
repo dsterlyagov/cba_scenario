@@ -1,0 +1,20 @@
+    "card": {
+        "type": "gallery_card",
+        "items": [
+            {
+                "type": "media_gallery_item",
+                "image": {
+                    "url": "https://cdn.sberdevices.ru/VA/icons/bank_skills/A0102_formula.png"
+                    
+                }
+             
+            },
+        "margins": {
+                    "top": "4x",
+                    "left": "6x",
+                    "right": "6x",
+                    "bottom": "5x"
+                }
+        ]
+    }
+}
